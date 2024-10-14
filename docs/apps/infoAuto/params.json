@@ -1,3 +1,25 @@
 {
-    "hncMode": "normal"
+    "infoAuto": {
+        "notifications": [
+            {
+                "title":"",
+                "message": "",
+                "day":"",
+                "month":"",
+                "year":""
+            }
+        ],
+        "hncToday": {
+            "isContingencia": false,
+            "hoyNoCircula": {
+                "day": "",
+                "month": "",
+                "year": "",
+                "plateEnding": [0,1],
+                "hologramPlate": ["0", "00"],
+                "hologramForced": ["1", "2"]
+            }  
+        }
+        
+    }
 }
