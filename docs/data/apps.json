@@ -1,0 +1,150 @@
+{
+  "developer": {
+    "name": "Rafael C",
+    "email": "spidzonemx@gmail.com",
+    "site": "https://rafael-cr.github.io/apps/",
+    "playStore": "https://play.google.com/store/apps/developer?id=Rafael+C."
+  },
+  "apps": [
+    {
+      "id": "infoauto",
+      "name": "InfoAuto",
+      "fullName": {
+        "es": "InfoAuto",
+        "en": "InfoAuto"
+      },
+      "packageId": "com.infoauto_freev",
+      "playStore": "https://play.google.com/store/apps/details?id=com.infoauto_freev",
+      "category": {
+        "es": "Autos y vehículos",
+        "en": "Auto &amp; Vehicles"
+      },
+      "tagline": {
+        "es": "La app que necesitas si tienes un auto en México.",
+        "en": "The app you need if you own a car in Mexico."
+      },
+      "description": {
+        "es": "Verificación vehicular, Hoy No Circula, multas e infracciones: todo lo que necesitas saber de tu auto, en una sola app.",
+        "en": "Vehicle inspection, driving restrictions and traffic fines: everything you need to know about your car, in a single app."
+      },
+      "icon": "assets/img/apps/infoauto.webp",
+      "pages": {
+        "es": "apps/infoAuto/infoAuto.html",
+        "en": "en/apps/infoauto.html"
+      },
+      "privacyPolicy": "privacyPolicy/infoauto-privacy.html"
+    },
+    {
+      "id": "midinero",
+      "name": "Mi Dinero",
+      "fullName": {
+        "es": "Mi Dinero – Finanzas Personales",
+        "en": "Mi Dinero – Personal Finance"
+      },
+      "packageId": "spider.com.moneymoney",
+      "playStore": "https://play.google.com/store/apps/details?id=spider.com.moneymoney",
+      "category": {
+        "es": "Finanzas",
+        "en": "Finance"
+      },
+      "tagline": {
+        "es": "Organiza tus finanzas personales de forma fácil y simple.",
+        "en": "Organize your personal finances the easy way."
+      },
+      "description": {
+        "es": "Tus finanzas en el teléfono: registra ingresos y gastos, controla tus tarjetas a meses sin intereses y no vuelvas a olvidar un pago.",
+        "en": "Your finances on your phone: track income and expenses, keep an eye on installment purchases and never miss a payment again."
+      },
+      "icon": "assets/img/apps/midinero.webp",
+      "pages": {
+        "es": "apps/MiDinero/miDinero.html",
+        "en": "en/apps/midinero.html"
+      },
+      "privacyPolicy": "privacyPolicy/midinero-privacy.html"
+    },
+    {
+      "id": "qrfyum",
+      "name": "QRfyum",
+      "fullName": {
+        "es": "QRfyum – Escáner de códigos QR",
+        "en": "QRfyum – QR code scanner"
+      },
+      "packageId": "com.rrcr.qrpresentation",
+      "playStore": "https://play.google.com/store/apps/details?id=com.rrcr.qrpresentation",
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "tagline": {
+        "es": "Lector de códigos QR sencillo y eficiente.",
+        "en": "A simple, efficient QR code reader."
+      },
+      "description": {
+        "es": "Escanea, guarda y comparte códigos QR y de barras de forma rápida, con la cámara o desde una imagen de tu galería.",
+        "en": "Scan, save and share QR and barcodes in seconds, using your camera or an image from your gallery."
+      },
+      "icon": "assets/img/apps/qrfyum.webp",
+      "pages": {
+        "es": "apps/QRfy/qrfy.html",
+        "en": "en/apps/qrfyum.html"
+      },
+      "privacyPolicy": "privacyPolicy/QRFYum_pp.html"
+    },
+    {
+      "id": "minimind",
+      "name": "MiniMind",
+      "fullName": {
+        "es": "MiniMind",
+        "en": "MiniMind"
+      },
+      "packageId": "com.rrcr.minimind",
+      "playStore": "https://play.google.com/store/apps/details?id=com.rrcr.minimind",
+      "category": {
+        "es": "Juegos · Rompecabezas",
+        "en": "Games · Puzzle"
+      },
+      "tagline": {
+        "es": "Minijuegos de lógica y memoria para entrenar tu mente.",
+        "en": "Logic and memory minigames to train your brain."
+      },
+      "description": {
+        "es": "Ocho minijuegos cortos para entrenar lógica, memoria, cálculo, atención y reflejos. Sin anuncios y sin conexión.",
+        "en": "Eight short minigames to train logic, memory, math, attention and reflexes. Ad-free and fully offline."
+      },
+      "icon": "assets/img/apps/minimind.webp",
+      "pages": {
+        "es": "apps/MiniMind/minimind.html",
+        "en": "en/apps/minimind.html"
+      },
+      "privacyPolicy": "privacyPolicy/MiniMind_pp.html"
+    },
+    {
+      "id": "passbox",
+      "name": "Passbox",
+      "fullName": {
+        "es": "Passbox – Gestor de contraseñas",
+        "en": "Passbox – Password manager"
+      },
+      "packageId": "com.rrcr.passbox",
+      "playStore": "https://play.google.com/store/apps/details?id=com.rrcr.passbox",
+      "category": {
+        "es": "Herramientas",
+        "en": "Tools"
+      },
+      "tagline": {
+        "es": "Gestiona y protege tus contraseñas de forma segura y organizada.",
+        "en": "Manage and protect your passwords, safely and neatly organized."
+      },
+      "description": {
+        "es": "Guarda las contraseñas de todas tus cuentas en un solo lugar y encuéntralas cuando las necesites, sin dar vueltas.",
+        "en": "Keep the passwords for all your accounts in one place and find them the moment you need them."
+      },
+      "icon": "assets/img/apps/passbox.webp",
+      "pages": {
+        "es": "apps/Passbox/passbox.html",
+        "en": "en/apps/passbox.html"
+      },
+      "privacyPolicy": "privacyPolicy/passbox-privacy.html"
+    }
+  ]
+}

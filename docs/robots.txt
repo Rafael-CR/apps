@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rafael-cr.github.io/apps/sitemap.xml
