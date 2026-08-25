@@ -258,11 +258,11 @@ a { text-decoration: none; transition: color .18s var(--ease); }
 }
 @media (max-width: 799px) {
   .hero__inner { gap: 30px; }
-  .hero__avatar { order: -1; width: 84px; height: 84px; }
+  .hero__avatar { order: -1; width: 128px; height: 128px; }
 }
 
 .hero__avatar {
-  width: 128px; height: 128px; border-radius: 50%; object-fit: cover;
+  width: 200px; height: 200px; border-radius: 50%; object-fit: cover;
   box-shadow: var(--shadow-pop);
 }
 .hero__eyebrow {
